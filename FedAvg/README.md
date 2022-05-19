@@ -47,7 +47,7 @@
 
 <img src="./img/image-20220109121725766.png" alt="image-20220109121725766" style="zoom: 10%;" />
 
-根据这个算法，我们可以写出如下的伪代码：
+根据上图算法，我们可以写出如下的伪代码：
 
 ```python
 # Creae Server and Clients

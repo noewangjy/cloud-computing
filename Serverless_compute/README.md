@@ -39,7 +39,7 @@ OpenWhisk特点：
     - `Disk Capacity`: 110GB
     - `Processor`: Intel Core i9-9880H @ 2.3GHz * 8
 
-本实验的工作目录是: `cc/lab2/Task1-Serverless/` 
+本实验的工作目录是: `Serverless_compute/Task1-Serverless/` 
 
 > 本实验基于[开源代码](https://github.com/davidliyutong/ICE6405P-260-M01/tree/main/docs/Lab2/Serverless)
 
@@ -461,7 +461,7 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
     - `Disk Capacity`: 110GB
     - `Processor`: Intel Core i9-9880H @ 2.3GHz * 8
 
-本实验的工作目录是: `WORK_DIR=cc/lab2/Task2-DistributedTraining`
+本实验的工作目录是: `WORK_DIR=Serverless_compute/Task2-DistributedTraining`
 
 > 本实验基于[开源代码](https://github.com/davidliyutong/ICE6405P-260-M01/tree/main/docs/Lab2/DistributedTraining) 
 

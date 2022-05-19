@@ -41,7 +41,7 @@
     - `Disk Capacity`: 110GB
     - `Processor`: Intel Core i9-9880H @ 2.3GHz * 8
 
-本实验的工作目录是: `cc/lab1/` 
+本实验的工作目录是: `Virtualization/` 
 
 > 本实验参考[开源代码](https://github.com/davidliyutong/ICE6405P-260-M01/tree/main/docs/Lab1)
 
