@@ -1,8 +1,9 @@
-# Cloud Computing Projects
+# Cloud Computing
 
 This repo includes the projects for ICE6405P-260-M01 Cloud Computing at Shanghai Jiao Tong University
 in 2021 Autumn. The course website is [here](https://tsingz0.github.io/ICE6405P-260-M01/).
 
+## Contents
 
 The projects are:
 - [KVM-based Network Virtualization and Virtual Machine Hot Migration](Virtualization)
